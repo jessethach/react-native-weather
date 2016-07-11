@@ -1,5 +1,5 @@
 import _ from 'lodash';
-const API_KEY = 'eb11b309431a1cc4994633299d0b95da';
+const API_KEY = 'Enter key here';
 const ROOT_URL = `http://api.openweathermap.org/data/2.5/weather?appid=${API_KEY}`;
 
 var kelvinToF = function(kelvin) {
